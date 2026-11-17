@@ -1,5 +1,9 @@
 # STARFALL SALVAGE
 
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/to-rubot/starfall-salvage/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/to-rubot/starfall-salvage/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+
 An original neon arena shooter for the desktop browser, built for make.fun's
 **best-game-01** ("Make the best game"). No build step, no dependencies, no
 network: serve `game/` with any static file server and play.
